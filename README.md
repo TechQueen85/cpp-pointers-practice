@@ -53,16 +53,16 @@ Each concept is explained through commented examples, making it easier for begin
    ```bash
    g++ practice.cpp -o practice
    ./practice
-Since the file has multiple independent code blocks,
+Since the file has **multiple independent code blocks**:
 
-Uncomment the section you want to test
+- Uncomment the section you want to test  
+- Recompile and run again
 
-Recompile and run again
-
+---
 ## 📝 Notes
 
 - This file is meant purely for **practice and learning**, not production code.  
 - It covers both **fundamental and advanced concepts** of pointers in C++.  
-- Code is heavily commented for easy understanding.
+- Code is commented for easy understanding.
 
 📘 This repository is intended as a learning reference for anyone exploring C++ pointers.
