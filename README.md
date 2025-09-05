@@ -59,12 +59,10 @@ Uncomment the section you want to test
 
 Recompile and run again
 
-📝 Notes
+## 📝 Notes
 
--This file is meant purely for practice and learning, not production code.
-
--It covers both fundamental and advanced concepts of pointers in C++.
-
--Code is commented for easy understanding.
+- This file is meant purely for **practice and learning**, not production code.  
+- It covers both **fundamental and advanced concepts** of pointers in C++.  
+- Code is heavily commented for easy understanding.
 
 📘 This repository is intended as a learning reference for anyone exploring C++ pointers.
